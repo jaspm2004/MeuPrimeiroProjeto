@@ -110,13 +110,13 @@ public class Funcionario implements Serializable {
 		this.perfil = perfil;
 	}
 	
-	public Empresa getEmpresa() {
+	/*public Empresa getEmpresa() {
 		return empresa;
 	}
 	
 	public void setEmpresa(Empresa empresa) {
 		this.empresa = empresa;
-	}	
+	}	*/
 	
 	public Date getDataCriacao() {
 		return dataCriacao;
